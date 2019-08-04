@@ -276,5 +276,6 @@
 		<module>maven_web</module>
 		<module>maven_service</module>
 		<module>maven_dao</module>
+		<module>maven_service1</module>
 	</modules>
 </project>
